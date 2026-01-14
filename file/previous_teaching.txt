@@ -1,0 +1,148 @@
+AY 2024-2025
+Second Semester
+	• Math 130 (Mathematical Analysis)
+First Semester 
+	• Math 232 (Real Analysis) 
+
+AY 2023-2024
+Second Semester
+	• Math 140 (Topological Structure)
+	• MATH 216 (Applied Partial Differential Equations)
+First Semester 
+	• Math 232 (Real Analysis) 
+	• Math 237 (Functional Analysis)  
+	• Math 297 (Independent Study)  
+
+AY 2022-2023
+Second Semester
+	• CmSc 141 (Automata & Language Theory)
+	• Math 132 (Real Analysis)
+	• MATH 197 (Selected Topics in Mathematics: Numerical Optimization)
+	• MATH 297 (Independent Study)
+	• MATH 299 (Graduate Seminar)
+First Semester 
+	• Math 132 (Real Analysis) 
+	• Math 232 (Real Analysis) 
+	• Math 237 (Functional Analysis)  
+
+AY 2021-2022
+Midyear Semester 
+	• Math 296 (Selected Topics in Applied Analysis: Mathematical Control Theory)
+Second Semester 
+	• Math 136 (Introduction to Numerical Analysis) 
+	• Math 198 (Seminar) 
+	• Math 280 (Linear and Nonlinear Optimization) 
+First Semester 
+	• Math 199 (Research in Mathematics) 
+	• Math 232 (Real Analysis) 
+	• Math 237 (Functional Analysis)  
+	
+AY 2020-2021  
+Second Semester 
+	• Math 136 (Introduction to Numerical Analysis) 
+	• Math 198 (Seminar) 
+	• Math 236 (Numerical Analysis) 
+	• CmSc 141 (Automata & Language Theory) 
+First Semester 
+	• Math 182 (Introduction to Computer Programming) 
+	• Math 232 (Real Analysis) 
+	• CmSc 117 (Numerical Methods)  
+	
+AY 2019-2020  
+Second Semester 
+	• Math 232 (Real Analysis) 
+	• Math 280 (Linear and Nonlinear Optimization) 
+	• Math 297 (Independent Study: Optimal Control of PDEs) 
+First Semester 
+	• Math 182 (Introduction to Computer Programming) 
+	• Math 232 (Real Analysis) 
+	• Math 237 (Functional Analysis)  
+	
+AY 2018-2019  
+Second Semester 
+	• Math 133 (Introduction to Functional Analysis) 
+	• Math 198 (Seminar) 
+	• Math 236 (Numerical Analysis) 
+First Semester 
+	• Math 237 (Functional Analysis) 
+	• Math 298 (Special Topics: Optimal Control of Differential Equations) 
+	• CmSc 117 (Numerical Methods)  
+	
+AY 2017-2018  
+Second Semester 
+	• Math 197 (Selected Topics in Mathematics: Numerical Optimization) 
+	• Math 239 (Numerical Partial Differential Equations) 
+	• Math 296 (Selected Topics in Applied Analysis: Numerical Optimization)  
+	
+AY 2016-2017  
+First Semester 
+	• Math 29  (Basic Concepts of Mathematics) 
+	• Math 55  (Elementary Analysis III) 
+	• Math 130 (Mathematical Analysis)  
+	
+AY 2015-2016  
+Midyear Semester 
+	• Math 298 (Special Topics: Recent Trends in Hyperbolic PDEs)  
+Second Semester 
+	• Math 132 (Real Analysis) 
+	• Math 136 (Introduction to Numerical Analysis) 
+	• Math 218 (Introduction to Applied Mathematics) 
+First Semester 
+	• Math 137 (Applied Analysis: Introduction to Mathematical Control Theory) 
+	• Math 140 (Topological Structures)  
+	
+AY 2014-2015  
+Second Semester 
+	• Math 132 (Real Analysis) 
+	• Math 197 (Selected Topics in Mathematics: Fourier Analysis) 
+	• Math 232 (Real Analysis) 
+First Semester 
+	• Math 136 (Introduction to Numerical Analysis) 
+	• Math 197 (Selected Topics in Mathematics: Introduction to PDEs) 
+	• Math 234 (Complex Analysis) 
+	
+AY 2010-2011  
+Second Semester 
+	• Math 11  (Algebra) 
+	• Math 55  (Elementary Analysis III) 
+	• CmSc 117 (Numerical Methods) 
+First Semester 
+	• Math 29  (Basic Concepts of Mathematics) 
+	• Math 100 (Introduction to Calculus) 
+	• Math 140 (Topological Structures) 
+	• Math 197 (Selected Topics: Introduction to PDEs) 
+	
+AY 2009-2010  
+Summer Semester 
+	• Math 54  (Elementary Analysis II) 
+Second Semester 
+	• Math 14  (Trigonometry) 
+	• Math 53  (Elementary Analysis I) 
+	• Math 132 (Real Analysis) 
+	• CmSc 117 (Numerical Methods) 
+First Semester 
+	• Math 11  (Algebra) 
+	• Math 136 (Introduction to Numerical Analysis) 
+	
+AY 2008-2009  
+Summer Semester 
+	• Math 54  (Elementary Analysis II) 
+Second Semester 
+	• Math 53  (Elementary Analysis I) 
+	• Math 123 (Elementary Theory of Numbers) 
+	• Math 140 (Topological Structures) 
+First Semester 
+	• Math 11  (Algebra) 
+	• Math 113 (Differential Equations) 
+	• Math 140 (Topological Structures) 
+	
+AY 2007-2008  
+Second Semester 
+	• Math 11  (Algebra) 
+	• Math 55  (Elementary Analysis III) 
+	• Math 121 (Abstract Algebra II) 
+	• Math 136 (Introduction to Numerical Analysis) 
+First Semester 
+	• Math 17  (Algebra and Trigonometry) 
+	• Math 29  (Basic Concepts of Mathematics) 
+	• CmSc 55  (Discrete Mathematical Structures in Computer Science)
